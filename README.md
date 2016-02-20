@@ -1,1 +1,3 @@
-"# About " https://github.com/bobc/rmc_library.git 
+# About rmc_library
+
+Symbol libraries for KiCad.
